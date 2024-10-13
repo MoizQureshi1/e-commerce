@@ -6,10 +6,7 @@ export default function Contact() {
       <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100">
         <div className="w-full max-w-4xl p-8 bg-white shadow-lg rounded-lg">
           <h1 className="text-3xl font-bold text-center text-gray-800">Contact Us</h1>
-          <p className="mt-4 text-center text-gray-600">
-          We’d love to hear from you! Whether you have a question, need assistance, or simply want to share feedback, we're here to help.
-          </p>
-          
+          <p className="mt-4 text-center text-gray-600">We did love to hear from you! Whether you have a question, need assistance, or simply want to share feedback, we are here to help.</p>
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
               <label className="block text-sm font-medium text-gray-700">Full Name</label>
