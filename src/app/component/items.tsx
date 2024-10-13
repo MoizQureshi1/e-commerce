@@ -34,7 +34,7 @@ export default function Items() {
 
           <a href="https://a.co/d/ihnQyvJ" target="blank" className="bg-slate-400 p-4 rounded-lg transition-transform transform hover:scale-105" >
             <Image src={tshirt} alt="Men's Crew T-Shirts" width={200} height={100} className="rounded-2xl mx-auto" />
-            <p className="text-xs mt-4"> Gildan Men's Crew T-Shirts,<br /> Multipack, Style G1100 Under Armour Men's<br /> Tech 2.0 Short-Sleeve T-Shirt</p>
+            <p className="text-xs mt-4"> Gildan Men Crew T-Shirts,<br /> Multipack, Style G1100 Under Armour Men<br /> Tech 2.0 Short-Sleeve T-Shirt</p>
             <p className="font-bold mt-2">$19<sup>99</sup></p>
           </a>
         </div>
@@ -54,13 +54,13 @@ export default function Items() {
 
         <a href="https://a.co/d/gstGZ7u" target="blank" className="bg-slate-400 p-4 rounded-lg transition-transform transform hover:scale-105">
           <Image src={stwatch} alt="Casio Men's Quartz" width={200} height={100} className="rounded-2xl mx-auto" />
-          <p className="text-xs mt-4">Casio Men's Quartz Day-Date Indicator<br /> Black Resin Dive Watch Model: MRW200H-1BV</p>
+          <p className="text-xs mt-4">Casio Men Quartz Day-Date Indicator<br /> Black Resin Dive Watch Model: MRW200H-1BV</p>
           <p className="font-bold mt-2">$21<sup>92</sup></p>
         </a>
 
         <a href="https://a.co/d/gjl0V1q" target="blank" className="bg-slate-400 p-4 rounded-lg transition-transform transform hover:scale-105">
           <Image src={pantshirt} alt="Men's Compression Sets" width={200} height={100} className="rounded-2xl mx-auto"/>
-          <p className="text-xs mt-4">MEETYOO Men's 5pcs Men's Compression<br /> Sets Pants Long Sleeve Shirt Athletic Shorts</p>
+          <p className="text-xs mt-4">MEETYOO Men 5pcs Men Compression<br /> Sets Pants Long Sleeve Shirt Athletic Shorts</p>
           <p className="font-bold mt-2">$36<sup>99</sup></p>
         </a>
       </div>
