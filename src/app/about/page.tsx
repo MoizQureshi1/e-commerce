@@ -6,7 +6,7 @@ import { LuPhoneCall } from "react-icons/lu";
 export default function Aboutpage() {
     return(
         <section>
-        <div className="h-screen bg-gradient-to-r from-blue-400 via-sky-800 to-blue-400 py-12">
+        <div className="bg-gradient-to-r from-blue-400 via-sky-800 to-blue-400 py-12 pb-60">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center mr-10 ml-10 pt-6 pb-6 bg-gradient-to-r from-slate-400 via-slate-300 to-slate-400">
                 <h2 className="text-3xl font-extrabold text-gray-900">About us</h2>
                 <p className="mt-2 text-lg text-gray-600">We are dedicated to providing exceptional service, fast shipping.</p>

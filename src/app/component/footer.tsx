@@ -14,7 +14,7 @@ export default function Footer() {
           </ul>
         </div>
         
-        <div className="pl-64 md:ml-24 mb-8 md:mb-0">
+        <div className="pl-10 md:ml-72 mb-8 md:mb-0">
           <h3 className="font-bold mb-2">About Us</h3>
           <ul>
             <li><a href="https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer" className="hover:underline">Our Story</a></li>
@@ -24,7 +24,7 @@ export default function Footer() {
           </ul>
         </div>
         
-        <div className="mb-20 pr-20 ml-5 md:ml-10 md:mt-10">
+        <div className="mb-20 pr-20 ml-10 md:ml-10 md:mt-10">
           <h3 className="font-bold mb-2">Information</h3>
           <ul>
             <li><a href="https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer" className="hover:underline">Shipping Information</a></li>
@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="mt-8 ml-12">
+      <div className="mt-8 ml-8">
         <p>&copy; {new Date().getFullYear()} All rights reserved. Terms of use ShopSphere.</p>
       </div>
     </footer>

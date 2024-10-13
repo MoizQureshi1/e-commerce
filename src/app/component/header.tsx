@@ -32,7 +32,7 @@ export default function Header() {
       </div>
       <div className="lg:hidden mt-4">
         <nav>
-          <ul className="flex gap-5 ml-9">
+          <ul className="flex gap-5 ml-5">
             <li><Link href="/">Home</Link></li>
             <li><Link href="https://a.co/d/jawfEXu" target="blank">Products</Link></li>
             <li><Link href="/about">About Us</Link></li>
