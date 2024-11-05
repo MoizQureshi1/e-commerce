@@ -11,7 +11,7 @@ import Footer from "./footer";
 
 export default function Items() {
   return (
-    <section className="min-h-screen bg-gradient-to-r from-blue-400 via-sky-800 to-blue-400 px-4 py-8">
+    <section className="min-h-screen bg-gradient-to-r from-blue-400 via-sky-800 to-blue-400 px-4 py-8 max-w-screen-2xl mx-auto">
       <div className="flex flex-col lg:flex-row lg:items-start justify-between mx-auto max-w-7xl">
         <div className="text-left lg:w-1/3 mb-8 lg:mb-0 pl-8 pt-6">
           <h2 className="text-white text-3xl font-bold">Best Selling <br /> Products</h2>
