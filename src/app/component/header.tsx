@@ -6,7 +6,7 @@ import {
   SheetContent,
   SheetTrigger,
 } from "@/components/ui/sheet"
-import { GiHamburgerMenu } from "react-icons/gi";
+import { FiMenu } from "react-icons/fi";
 
 export default function Header() {
   return (
@@ -53,7 +53,7 @@ export default function Header() {
               </div>
             </a>
           </div>
-          <SheetTrigger className=" text-3xl mt-2 md:hidden bg-cyan-700"><GiHamburgerMenu /></SheetTrigger>
+          <SheetTrigger className=" text-3xl mt-2 md:hidden bg-cyan-700"><FiMenu /></SheetTrigger>
           <SheetContent>
           <div>
             <h2 className="text-3xl font-bold mt-6">ShopSphere</h2>
