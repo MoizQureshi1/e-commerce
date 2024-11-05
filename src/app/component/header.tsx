@@ -41,7 +41,7 @@ export default function Header() {
           <div>
             <h1 className="text-left text-3xl font-bold md:hidden">ShopSphere.</h1>
           </div>
-          <div className="flex gap-3 ml-8">
+          <div className="flex gap-3 ml-12">
             <a href="/product" target="blank">
               <div className="text-3xl mt-2 block md:hidden">
                 <BiSolidShoppingBags />
