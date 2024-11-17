@@ -1,6 +1,6 @@
 import Link from "next/link";
 import {FaFacebookF, FaLinkedinIn } from "react-icons/fa";
-import { FiGithub } from "react-icons/fi";
+import { ImYoutube2 } from "react-icons/im";
 
 export default function Footer() {
   return (
@@ -12,7 +12,7 @@ export default function Footer() {
           <ul className="flex gap-4 mt-3 text-xl">
             <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.facebook.com/profile.php?id=100089981983705"><FaFacebookF /></a></li>
             <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.linkedin.com/in/moiz-qureshi-0884592b9"><FaLinkedinIn /></a></li>
-            <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://github.com/MoizQureshi1"><FiGithub /></a></li>
+            <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.youtube.com/@solve-swift"><ImYoutube2 /></a></li>
           </ul>
         </div>
         
