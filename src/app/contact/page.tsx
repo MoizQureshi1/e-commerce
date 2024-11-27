@@ -3,6 +3,7 @@ import Footer from "../component/footer";
 export default function Contact() {
     return (
       <main>
+        <title>Contact Us</title>
       <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100 max-w-screen-2xl mx-auto">
         <div className="w-full max-w-4xl p-8 bg-white shadow-lg rounded-lg">
           <h1 className="text-3xl font-bold text-center text-gray-800">Contact Us</h1>

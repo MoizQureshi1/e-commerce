@@ -16,6 +16,7 @@ import Footer from "../component/footer";
 export default function Product(){
     return(
         <main className="min-h-screen bg-gradient-to-r from-blue-400 via-sky-800 to-blue-400 pt-10 max-w-screen-2xl mx-auto">
+          <title>Products</title>
           <div>
             <h2 className="ml-8 font-bold text-3xl mr-8 py-1 pl-2 bg-slate-400">Gaming accessories</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mx-auto max-w-7xl mt-2 ml-8 mr-8">
