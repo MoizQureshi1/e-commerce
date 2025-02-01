@@ -1,13 +1,14 @@
 import Image from "next/image";
 import { FaLongArrowAltRight } from "react-icons/fa";
-import watch from "../../../Public/watch.png";
-import sound from "../../../Public/sound.png";
-import tshirt from "../../../Public/tshirt.png";
-import link from "../../../Public/link.png";
-import laptop from "../../../Public/laptop.png";
-import stwatch from "../../../Public/stwatch.png";
-import pantshirt from "../../../Public/pantshirt.png";
+import watch from "../../Public/watch.png";
+import sound from "../../Public/sound.png";
+import tshirt from "../../Public/tshirt.png";
+import link from "../../Public/link.png";
+import laptop from "../../Public/laptop.png";
+import stwatch from "../../Public/stwatch.png";
+import pantshirt from "../../Public/pantshirt.png";
 import Footer from "./footer";
+import Link from "next/link";
 
 export default function Items() {
   return (
@@ -16,9 +17,9 @@ export default function Items() {
         <div className="text-left lg:w-1/3 mb-8 lg:mb-0 pl-8 pt-6">
           <h2 className="text-white text-3xl font-bold">Best Selling <br /> Products</h2>
           <p className="text-white pt-6 font-semibold">Easiest way to healthy life <br /> by buying your <br /> favorite Products</p>
-          <a href="https://a.co/d/cbiXeuQ" target="blank" className="inline-flex items-center gap-2 mt-8 px-4 py-2 rounded-md bg-slate-400 text-white hover:bg-slate-500 transition-colors">See more
+          <Link href="product" target="blank" className="inline-flex items-center gap-2 mt-8 px-4 py-2 rounded-md bg-slate-400 text-white hover:bg-slate-500 transition-colors">See more
             <FaLongArrowAltRight className="text-xl" />
-          </a>
+          </Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 lg:w-2/3 mr-8">
           <a href="https://a.co/d/4SInRMv" target="blank" className="bg-slate-400 p-4 rounded-lg transition-transform transform hover:scale-105">

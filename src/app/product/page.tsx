@@ -11,7 +11,7 @@ import tfproduct from "../../../Public/tfproduct.png"
 import tsproduct from "../../../Public/tsproduct.png"
 import ttproduct from "../../../Public/ttproduct.png"
 import tlproduct from "../../../Public/tlproduct.png"
-import Footer from "../component/footer";
+import Footer from "@/components/footer";
 
 export default function Product(){
     return(

@@ -1,7 +1,7 @@
 import { GiMoneyStack } from "react-icons/gi";
-import Footer from "../component/footer";
 import { CiBoxes } from "react-icons/ci";
 import { LuPhoneCall } from "react-icons/lu";
+import Footer from "@/components/footer";
 
 export default function Aboutpage() {
     return(
