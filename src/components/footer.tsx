@@ -12,7 +12,7 @@ export default function Footer() {
           <ul className="flex gap-4 mt-3 text-xl">
             <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.facebook.com/profile.php?id=100089981983705"><FaFacebookF /></a></li>
             <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.linkedin.com/in/moiz-qureshi-0884592b9"><FaLinkedinIn /></a></li>
-            <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.youtube.com/@solve-swift"><ImYoutube2 /></a></li>
+            <li className="border-2 border-gray-800 rounded-full p-2 md:p-3 hover:bg-slate-700"><a href="https://www.youtube.com/@Moiz_Qureshi00"><ImYoutube2 /></a></li>
           </ul>
         </div>
         
